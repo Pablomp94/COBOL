@@ -40,5 +40,5 @@
 
            DISPLAY "La suma de ambos numeros es: " RESULTADO.
 
-            STOP RUN.
+           STOP RUN.
        END PROGRAM Programa1.
