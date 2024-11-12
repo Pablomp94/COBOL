@@ -10,11 +10,11 @@
        FILE SECTION.
        WORKING-STORAGE SECTION.
 
-       01 Numero1 PIC 9999 VALUE 20.
-       01 Numero2 PIC 9999 VALUE 30.
+       01 Numero1 PIC 99 VALUE 20.
+       01 Numero2 PIC 99 VALUE 30.
        01 RESULTADO PIC 9999 VALUE ZERO.
        01 Opera PIC 9999 VALUE ZERO.
-       01 Operacion PIC X(10).
+       01 Operacion PIC x(10).
 
        PROCEDURE DIVISION.
 
